@@ -1,0 +1,5 @@
+sudo apt upadate 
+sudo apt install openjdk17-jdk -y
+sudo apt install maven -y
+java --version
+maven --version
