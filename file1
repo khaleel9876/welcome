@@ -4,3 +4,4 @@ sudo apt install maven -y
 java --version
 maven --version
 git clone
+all 
